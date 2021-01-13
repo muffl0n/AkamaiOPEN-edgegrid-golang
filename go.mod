@@ -1,4 +1,4 @@
-module github.com/akamai/AkamaiOPEN-edgegrid-golang/v2
+module github.com/muffl0n/AkamaiOPEN-edgegrid-golang/v2
 
 go 1.14
 
